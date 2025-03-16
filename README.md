@@ -1,5 +1,7 @@
 # :cat: Dummy Cat Blog Site :cat: 
 
+![Main Page Screenshot.](C:\laragon\www\catblog\src\screenshot.png)
+
 What I made here is a simple website using php that tests out a couple APIs in the form of a cat blogging site
 
 The main thing this site does is giving out random cat pics and cat facts everytime it refreshes
