@@ -1,6 +1,6 @@
 # :cat: Dummy Cat Blog Site :cat: 
 
-![Main Page Screenshot.](C:\laragon\www\catblog\src\screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/0cc011e4-ecab-4541-b1b1-f5f2cd54a358)
 
 What I made here is a simple website using php that tests out a couple APIs in the form of a cat blogging site
 
